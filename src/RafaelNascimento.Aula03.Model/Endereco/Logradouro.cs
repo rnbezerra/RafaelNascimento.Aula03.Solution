@@ -9,6 +9,7 @@ namespace RafaelNascimento.Aula03.Model
     public class Logradouro
     {
         public int Id { get; set; }
+        public String CEP { get; set; }
         public String NomeLogradouro { get; set; }
         public TipoLogradouro Tipo { get; set; }
         public int IdBairro { get; set; }
