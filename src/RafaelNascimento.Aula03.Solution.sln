@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RafaelNascimento.Aula03.ConsoleApp", "RafaelNascimento.Aula03.ConsoleApp\RafaelNascimento.Aula03.ConsoleApp.csproj", "{F5549A64-3FCE-4E50-9B10-19EB64B79663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RafaelNascimento.Aula03.Model", "RafaelNascimento.Aula03.Model\RafaelNascimento.Aula03.Model.csproj", "{863277B4-1E69-4877-8D3D-8E1A1CEE9295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5549A64-3FCE-4E50-9B10-19EB64B79663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5549A64-3FCE-4E50-9B10-19EB64B79663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5549A64-3FCE-4E50-9B10-19EB64B79663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5549A64-3FCE-4E50-9B10-19EB64B79663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863277B4-1E69-4877-8D3D-8E1A1CEE9295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863277B4-1E69-4877-8D3D-8E1A1CEE9295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863277B4-1E69-4877-8D3D-8E1A1CEE9295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863277B4-1E69-4877-8D3D-8E1A1CEE9295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

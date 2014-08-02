@@ -1,0 +1,9 @@
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.ConsoleApp.exe.config
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.ConsoleApp.exe.config
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.ConsoleApp.exe
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.ConsoleApp.pdb
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.Model.dll
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\bin\Debug\RafaelNascimento.Aula03.Model.pdb
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\obj\Debug\RafaelNascimento.Aula03.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\obj\Debug\RafaelNascimento.Aula03.ConsoleApp.exe
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.ConsoleApp\obj\Debug\RafaelNascimento.Aula03.ConsoleApp.pdb

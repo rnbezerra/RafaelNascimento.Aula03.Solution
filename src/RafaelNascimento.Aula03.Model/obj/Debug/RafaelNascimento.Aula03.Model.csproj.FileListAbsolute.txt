@@ -1,0 +1,5 @@
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.Model\bin\Debug\RafaelNascimento.Aula03.Model.dll
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.Model\bin\Debug\RafaelNascimento.Aula03.Model.pdb
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.Model\obj\Debug\RafaelNascimento.Aula03.Model.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.Model\obj\Debug\RafaelNascimento.Aula03.Model.dll
+C:\Projects\GitHub\RafaelNascimento.Aula03.Solution\src\RafaelNascimento.Aula03.Model\obj\Debug\RafaelNascimento.Aula03.Model.pdb
